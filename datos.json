@@ -1,0 +1,23 @@
+
+{
+  "header": [
+    {
+      "titulo": "Manosalaobrart",
+      "id": "titulo_manosalaobrart"
+    },
+    {
+      "img": "logo",
+      "id": "logo",
+      "clase": "logo",
+      "alt": "logo",
+      "url": "/img/Mi logo manosalaobrart.jpg"
+    }
+    
+  ],
+  "body": [
+    {
+      "titulo": "tttt"
+    }
+    
+  ]
+}
